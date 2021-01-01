@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+من# Frequently Asked Questions
 
 ### Q: Why is X app detecting root?
 
